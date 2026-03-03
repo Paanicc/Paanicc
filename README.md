@@ -20,24 +20,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saturn-abhishek/awesome-github-profile-readme/main/assets/readme-gifs/coder_hacker.gif" width="180" alt="Hacker Gif" />
+  <table>
+    <tr>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding GIF" />
+      </td>
+      <td width="70%">
+        <h3><b>Computer Science & Engineering Student</b> @ <i>University of Ioannina</i></h3>
+        <ul>
+          <li>🔍 Deep diving into <b>Algorithms</b>, <b>Data Structures</b>, and <b>Operating Systems</b>.</li>
+          <li>🛡️ My passion lies at the intersection of <b>Cybersecurity</b> and modern <b>Web Development</b>.</li>
+          <li>🕹️ When I'm not in the terminal, you can find me <b>gaming</b> or listening to <b>music</b>.</li>
+          <li>⚽ Enjoying <b>football</b> and hunting for the best <b>coffee</b> ☕ to fuel my next coding session!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h3 align="center">
-  <b>Computer Science & Engineering Student</b> @ University of Ioannina
-</h3>
-
-<p align="center">
-  <br/>
-  Deep diving into <b>Algorithms</b>, <b>Data Structures</b>, and <b>Operating Systems</b>. <br/> 
-  My passion lies at the intersection of <b>Cybersecurity</b> and modern <b>Web Development</b>. <br/>
-  <br/>
-  When I'm not in the terminal or building UIs, you can find me <b>gaming</b>, listening to <b>music</b>, <br/>
-  watching <b>football</b> ⚽, and hunting for the best <b>coffee</b> ☕ to fuel my next coding session!
-</p>
-
 <br/>
-<hr align="center" width="60%" />
+<!-- Sleek glowing animated divider instead of the old hr gray bar -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 <br/>
 
 <h2 align="center">
