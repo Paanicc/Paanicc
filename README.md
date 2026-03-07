@@ -11,15 +11,11 @@
   <br/>
   <br/>
   <p align="center">
-    <a href="https://paanicc.github.io/Website/">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=32&text=🌐%20WEBSITE&fontColor=00F0FF&fontSize=14&fontAlign=50&fontAlignY=55&stroke=00F0FF&strokeWidth=2&animation=twinkling" height="34" alt="Website"/>
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Paanicc&label=👁%20Profile%20Views&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="Views" />
-    &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/paaniic">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=32&text=💬%20DISCORD&fontColor=7289DA&fontSize=14&fontAlign=50&fontAlignY=55&stroke=7289DA&strokeWidth=2&animation=twinkling" height="34" alt="Discord"/>
-    </a>
+    <a href="https://paanicc.github.io/Website/"><img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=aboutdotme&logoColor=0D1117" alt="Website"/></a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Paanicc&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="Views" />
+    &nbsp;
+    <a href="https://discordapp.com/users/paaniic"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
 
