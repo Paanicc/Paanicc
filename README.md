@@ -11,11 +11,11 @@
   <br/>
   <br/>
   <p align="center">
-    <a href="https://paanicc.github.io/Website/"><img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=aboutdotme&logoColor=0D1117" alt="Website"/></a>
+    <a href="https://paanicc.github.io/Website/"><img src="https://img.shields.io/badge/Website-00F0FF?style=flat&logo=aboutdotme&logoColor=0D1117&labelColor=00F0FF" alt="Website" height="28"/></a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Paanicc&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=Paanicc&label=Profile+Views&color=00F0FF&style=flat" alt="Views" height="28"/>
     &nbsp;
-    <a href="https://discordapp.com/users/paaniic"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://discordapp.com/users/paaniic"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord" height="28"/></a>
   </p>
 </div>
 
