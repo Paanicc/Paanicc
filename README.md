@@ -30,7 +30,7 @@
       <td width="70%">
         <h3><b>Computer Science & Engineering Student</b> @ <i>University of Ioannina</i></h3>
         <ul>
-          <li>🔍 Deep diving into <b>Algorithms</b>, <b>Data Structures</b>, and <b>Operating Systems</b>.</li>
+          <li>🔍 Deep diving into <b>Algorithms</b>, <b>Compilers</b>, and <b>Operating Systems</b>.</li>
           <li>🛡️ My passion lies at the intersection of <b>Cybersecurity</b> and modern <b>Web Development</b>.</li>
           <li>🕹️ When I'm not in the terminal, you can find me <b>gaming</b> or listening to <b>music</b>.</li>
           <li>⚽ Enjoying <b>football</b> and hunting for the best <b>coffee</b> ☕ to fuel my next coding session!</li>
